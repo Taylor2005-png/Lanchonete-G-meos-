@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBpU-5HhaFZzyHr1LM5qkMWBwAT3Mwy-i0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922876193171</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>clean.App.LanchoneteGemeos</string>
+	<key>PROJECT_ID</key>
+	<string>lanchonetegemeos-15ce0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lanchonetegemeos-15ce0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922876193171:ios:b63be5ae4bb247ba31a066</string>
+</dict>
+</plist>
